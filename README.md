@@ -21,7 +21,7 @@ The current version of the portfolio website does not have backend functionality
 
 ### How to Run the Project
 
-    Clone the Repository:
+Clone the Repository:
 
     bash
     
