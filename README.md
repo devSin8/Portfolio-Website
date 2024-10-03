@@ -25,7 +25,7 @@ Clone the Repository:
 
     bash
     
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/devSin8/portfolio-website.git
 
 Navigate to the Project Directory:
 ```
